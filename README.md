@@ -1,2 +1,2 @@
-# 3D-Modeling
-Modeling of a PS3 joystick done in Autodesk Maya. 
+download the maya file
+You need to have MAya software to open this file
